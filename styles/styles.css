@@ -1,6 +1,49 @@
+.arham{
+
+    background-color:azure;
+}
 .first{
 
     color: blue;
+    text-align: center;
+    margin-top: 10%;
 
 
+}
+.second{
+
+    background-color:white;
+    margin: 20px;
+    text-align: center;
+}
+
+.third{
+
+    /* margin: 200px; */
+
+    padding: 20px;
+}
+
+.fourth{
+
+    font-weight: bolder;
+    color: blue;
+}
+
+.fifth{
+
+    text-decoration: none;
+}
+.sixth{
+
+    text-align: center;
+}
+.seventh{
+
+    text-decoration: underline;
+    text-align: center;
+}
+.eigth{
+
+    text-align: center;
 }
